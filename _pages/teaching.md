@@ -28,7 +28,7 @@ Lecture videos: [YouTube](https://www.youtube.com/playlist?list=PLD7BlzsBs5Z8CGc
 
 **POL SCI 702 - Advanced Techniques of Political Science Research** \\
 Graduate lecture \\
-Syllabus: [Spring 2019](../files/syllabi/PolSci702_2019.pdf), [Spring 2021](../files/syllabi/PolSci702_2021.pdf) \\
+Syllabus: [Spring 2019](../files/syllabi/PolSci702_2019.pdf), [Spring 2021](../files/syllabi/PolSci702_2021.pdf), [Spring 2022](../files/syllabi/PolSci702_2022.pdf) \\
 Evaluations: [Spring 2019](../files/syllabi/PolSci702_2019_Evals.pdf) \\
 Lecture videos: [YouTube](https://www.youtube.com/playlist?list=PLD7BlzsBs5Z_A9qD_FLjE1UbQawV0dFTT)
 
