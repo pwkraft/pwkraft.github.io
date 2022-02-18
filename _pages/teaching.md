@@ -18,7 +18,7 @@ Syllabus: [Fall 2019](../files/syllabi/PolSci104_2019.pdf), [Spring 2020](../fil
 
 **POL SCI 475 - Political Psychology** \\
 Undergraduate seminar (online) \\
-Syllabus: [Spring 2020](../files/syllabi/PolSci475_2020.pdf), [Spring 2021](../files/syllabi/PolSci475_2021.pdf)
+Syllabus: [Spring 2020](../files/syllabi/PolSci475_2020.pdf), [Fall 2021](../files/syllabi/PolSci475_2021.pdf)
 
 **POL SCI 701 - Techniques of Political Science Research** \\
 Graduate lecture \\

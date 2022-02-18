@@ -12,9 +12,6 @@ _UWM Discovery and Innovation Grant_. 2021-2022.
 
 ## Manuscripts Under Review
 
-**Asking the Right Questions: A Framework to Develop Gender-Balanced Knowledge Batteries** \\
-with Kathleen Dolan.  Revisions submitted to _Political Research Quarterly_.
-
 **Everyone Cares about Fairness: Why Morality Doesn't Fit in a Bag of Words** \\
 with Robert Klemmensen. Invitation to revise and resubmit at _British Journal of Political Science_.
 
