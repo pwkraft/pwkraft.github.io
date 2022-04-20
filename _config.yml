@@ -75,7 +75,8 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : G-Z3BY6WTC36 # OLD: UA-100572491-1
+    tracking_id          : UA-100572491-1
+    measurement_id       : G-Z3BY6WTC36
 
 
 # Site Author
