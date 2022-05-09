@@ -15,8 +15,8 @@ _UWM Discovery and Innovation Grant_. 2021-2022.
 **Everyone Cares about Fairness: Why Morality Doesn't Fit in a Bag of Words** \\
 with Robert Klemmensen. Invitation to revise and resubmit at _British Journal of Political Science_.
 
-**Glass Half-Full or Half Empty: How Perceived Progress in Women’s Representation Affects Political Interest and Efficacy** \\
-with Kathleen Dolan. Invitation to revise and resubmit at _Journal of Women, Politics & Policy_.
+**Women Also Know Stuff: Challenging the Gender Gap in Political Sophistication** \\
+Invitation to revise and resubmit at the _American Political Science Review_.
 
 **When Information is Not Good Enough: Individual Preconditions for Strategic Voting** \\
 with Benjamin Schlegel and Lukas Stoetzer. _Under review_.
@@ -24,13 +24,10 @@ with Benjamin Schlegel and Lukas Stoetzer. _Under review_.
 **The Perils of Protest: Complaints About Police Misconduct Have Adverse Effects for Black Citizens** \\
 with Benjamin J. Newman. _Under review_.
 
-**Women Also Know Stuff: Challenging the Gender Gap in Political Sophistication** \\
-_Under review_.
-
 ## Selected Work in Progress
 
 **It's a Matter of Choice: Misinformation Correction under Selective Exposure** \\
-with Amanda Heideman, Taraleigh Davis, and Jason T. Neumeyer. _Data collection in progress_.
+with Amanda Heideman, Taraleigh Davis, and Jason T. Neumeyer. _In preparation for submission_.
 
 **Don't Shoot the Messenger: The Role of Expert Cues in Correcting Misinformation on Climate Change** \\
 with Nicholas R. Davis, Shin Young Park, and Chan Song Kim. _Data collection in progress_.
