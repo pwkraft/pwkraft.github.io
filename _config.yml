@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Patrick W. Kraft"
 title_separator          : "-"
 name                     : &name "Patrick W. Kraft"
-description              : &description "Assistant Professor | Department of Political Science | University of Wisconsin-Milwaukee"
+description              : &description "Ramón y Cajal Fellow | Juan March Institute | University Carlos III of Madrid"
 url                      : https://pwkraft.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pwkraft/pwkraft.github.io"
@@ -83,12 +83,12 @@ analytics:
 author:
   name             : "Patrick W. Kraft"
   avatar           : "IMG-20210523-WA0005.jpg"
-  bio              : "Department of Political Science University of Wisconsin Milwaukee"
+  bio              : "Juan March Institute of Social Sciences | University Carlos III of Madrid"
   location         : 
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=QTPa1MAAAAAJ&hl=en"
-  email            : "kraftp@uwm.edu"
+  email            : "patrickwilli.kraft@uc3m.es"
   researchgate     :  #"https://www.researchgate.net/profile/Patrick_Kraft2"
   uri              :
   bitbucket        :
