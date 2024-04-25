@@ -8,5 +8,5 @@ venue: 'Research and Politics'
 link: 'https://doi.org/10.1177/2053168017713059'
 paperurl: '/files/articles/lebo2017general_accepted.pdf'
 dataverse: 'http://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/D1TW2Y'
-citation: 'Lebo, Matthew, and Patrick Kraft. (2017). &quot;The General Error Correction Model in Practice.&quot; <i>Research and Politics</i> 4(2): 2053168017713059.'
+citation: 'Lebo, Matthew and Patrick Kraft. (2017). &quot;The General Error Correction Model in Practice.&quot; <i>Research and Politics</i> 4(2): 2053168017713059.'
 ---

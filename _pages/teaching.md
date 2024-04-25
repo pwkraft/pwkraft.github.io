@@ -10,6 +10,24 @@ author_profile: true
 - **Substantive:** Public opinion and elections, ideology, media and politics, morality and politics, political behavior, political psychology
 - **Methods:** Probability, linear models, maximum-likelihood, measurement, causal inference, experiments, text analysis, Bayesian statistics
 
+## Courses taught at Carlos III University of Madrid
+
+**Mathematics for Social Sciences and Basic Statistics** \\
+Graduate seminar \\
+Syllabus: [Fall 2022](../files/syllabi/MathCamp_2022.pdf), [Fall 2023](../files/syllabi/MathCamp_2023.pdf)
+
+**Applied Quantitative Methods for the Social Sciences I** \\
+Graduate lecture \\
+Syllabus: [Fall 2022](../files/syllabi/AQMSS-I_2022.pdf), [Fall 2023](../files/syllabi/AQMSS-I_2023.pdf)
+
+**Applied Quantitative Methods for the Social Sciences II** \\
+Graduate lecture \\
+Syllabus: [Spring 2023](../files/syllabi/AQMSS-II_2023.pdf), [Spring 2024](../files/syllabi/AQMSS-II_2024.pdf)
+
+**R Basics for Social Sciences, faculty seminar** \\
+Faculty seminar \\
+Syllabus: [Spring 2024](../files/syllabi/BasicR_Spring2024.pdf)
+
 ## Courses taught at the University of Wisconsin-Milwaukee
 
 **POL SCI 104 - Introduction to American Government and Politics** \\

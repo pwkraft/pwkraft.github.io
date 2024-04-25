@@ -8,5 +8,5 @@ venue: 'American Politics Research'
 paperurl: '/files/articles/kraft2021reliable_accepted.pdf'
 appendix: '/files/articles/kraft2021reliable_appendix.pdf'
 link: 'https://doi.org/10.1177/1532673X211041570'
-citation: 'Kraft, Patrick, Nicholas R. Davis, Taraleigh Davis, Amanda Heideman, Jason T. Neumeyer, and Shin Young Park. (forthcoming). &quot;Reliable Sources? Correcting Misinformation in Polarized Media Environments.&quot; <i>American Politics Research</i> 50(1): 17-29.'
+citation: 'Kraft, Patrick, Nicholas R. Davis, Taraleigh Davis, Amanda Heideman, Jason T. Neumeyer, and Shin Young Park. (2022). &quot;Reliable Sources? Correcting Misinformation in Polarized Media Environments.&quot; <i>American Politics Research</i> 50(1): 17-29.'
 ---
