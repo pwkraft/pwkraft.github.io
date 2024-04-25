@@ -24,7 +24,7 @@ Syllabus: [Fall 2022](../files/syllabi/AQMSS-I_2022.pdf), [Fall 2023](../files/s
 Graduate lecture \\
 Syllabus: [Spring 2023](../files/syllabi/AQMSS-II_2023.pdf), [Spring 2024](../files/syllabi/AQMSS-II_2024.pdf)
 
-**R Basics for Social Sciences, faculty seminar** \\
+**R Basics for Social Sciences** \\
 Faculty seminar \\
 Syllabus: [Spring 2024](../files/syllabi/BasicR_Spring2024.pdf)
 
