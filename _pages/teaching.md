@@ -26,7 +26,16 @@ Syllabus: [Spring 2023](../files/syllabi/AQMSS-II_2023.pdf), [Spring 2024](../fi
 
 **R Basics for Social Sciences** \\
 Faculty seminar \\
-Syllabus: [Spring 2024](../files/syllabi/BasicR_Spring2024.pdf)
+Syllabus: [Spring 2024](../files/syllabi/BasicR_Spring2024.pdf), [Spring 2025]()
+
+**Introduction to Machine Learning in R** \\
+Graduate workshop \\
+Syllabus: [Fall 2024](../files/syllabi/MachineLearning_2024.pdf)
+
+**Causal Inference** \\
+Graduate lecture \\
+Syllabus: [Spring 2025]()
+
 
 ## Courses taught at the University of Wisconsin-Milwaukee
 
