@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Patrick W. Kraft"
 title_separator          : "-"
 name                     : &name "Patrick W. Kraft"
-description              : &description "Ramón y Cajal Fellow | Juan March Institute of Social Sciences | Carlos III University of Madrid"
+description              : &description "Ramón y Cajal Fellow | IPP-CSIC"
 url                      : https://pwkraft.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pwkraft/pwkraft.github.io"
@@ -83,12 +83,12 @@ analytics:
 author:
   name             : "Patrick W. Kraft"
   avatar           : "IMG-20210523-WA0005.jpg"
-  bio              : "Ramón y Cajal Fellow<br>Juan March Institute<br>University Carlos III of Madrid"
+  bio              : "Ramón y Cajal Fellow<br>IPP-CSIC"
   location         : 
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=QTPa1MAAAAAJ&hl=en"
-  email            : "patrickwilli.kraft@uc3m.es"
+  email            : "patrick.kraft@cchs.csic.es"
   researchgate     :  #"https://www.researchgate.net/profile/Patrick_Kraft2"
   uri              :
   bitbucket        :
@@ -110,7 +110,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "patrickwkraft"
+  twitter          : #"patrickwkraft"
   vine             :
   weibo            :
   xing             :
